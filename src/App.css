@@ -1,0 +1,47 @@
+.card{
+  border: 1px solid black;
+  height: 500px;
+  width: 900px;
+  border-radius: 30px;
+  text-align: left;
+  background-image: url(./earth.jpg) ;
+  background-size: cover;
+}
+
+.title{
+  margin-left: 400px;
+  color: white;
+  font-size: 50px;
+  height: 20px;
+}
+.sim{
+  height: 300px;
+  width: 300 px;
+  margin-top: -50px;
+}
+.number{
+  color: white;
+  margin-left: 55px;
+  margin-top: -60px;
+  font-size: 50px;
+}
+.num{
+  margin-top: -13px;
+  color: white;
+  margin-left: 557px;
+  font-size: 50px;
+}
+.name{
+  margin-left: 58px;
+  margin-top: 60px;
+  color: white;
+  font-size: 50px;
+
+}
+.date{
+  display: flex;
+  margin-top: -170px;
+}
+.inputes{
+  display: flex;
+}
